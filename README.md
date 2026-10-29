@@ -1,4 +1,4 @@
-# 📊 Data Analytics Dashboard Project
+# 📊 Bank Customer Analytics Dashboard
 
 ## 📌 Project Overview
 
